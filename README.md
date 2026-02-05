@@ -1,21 +1,20 @@
-# 🚀 Ekachai Kanya - Portfolio Website
+# 🚀 Kittituch Thampa - IT Portfolio
 
 ![Project Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=statuspage)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-ยินดีต้อนรับสู่โปรเจกต์เว็บไซต์ Portfolio ส่วนตัวของ **Ekachai Kanya** เว็บไซต์นี้ถูกออกแบบด้วยดีไซน์ **Modern Premium Dark Mode** ที่เน้นความสวยงาม ทันสมัย และรองรับการแสดงผลบนทุกอุปกรณ์ (Responsive Design)
+ยินดีต้อนรับสู่โปรเจกต์เว็บไซต์ Portfolio ด้าน IT ของ **Kittituch Thampa** — รวมงานด้านระบบเครือข่าย, ออโตเมชันคลาวด์ และเครื่องมือสำหรับการสังเกตการณ์ระบบ (observability)
 
 ---
 
 ## ✨ คุณสมบัติเด่น (Features)
 
-- 🎨 **Premium Dark UI**: ดีไซน์โทนสีดำตัดกับแสงนีออน ให้ความรู้สึกพรีเมียมและล้ำสมัย
-- 🔮 **Glassmorphism**: เทคนิคการออกแบบพื้นหลังแบบกระจกเบลอเพิ่มมิติให้กับเว็บไซต์
-- 📱 **Fully Responsive**: รองรับการใช้งานทั้งบน Desktop, Tablet และ Mobile
-- ⚡ **Fast Performance**: โค้ด HTML/CSS ที่สะอาดและเบา โหลดไวไม่มีสะดุด
-- 🖼️ **AI Generated Assets**: รูปภาพประกอบทั้งหมดถูกสร้างสรรค์ด้วย AI
+- 🖧 **Network & Monitoring Demos**: ตัวอย่างเครื่องมือมอนิเตอร์และแจ้งเตือน
+- ☁️ **CloudOps Playbooks**: ตัวอย่างการตั้งค่า CI/CD และ deployment automation
+- 🧰 **Tooling & Automation**: สคริปต์และเทมเพลตสำหรับ Docker, Kubernetes และ CI
+- ⚡ **Lightweight Static Site**: หน้าเว็บหลักเป็น Static HTML/CSS สำหรับโชว์โปรเจกต์
 
 ---
 
@@ -31,13 +30,13 @@ it464a-gitsample/
 │   ├── project_thumbnail_2.png # 🖼️ รูปตัวอย่างโปรเจกต์ 2
 │   ├── github_deploy_ui.png    # 📘 รูปประกอบการ Deploy GitHub Pages
 │   └── cloudflare_deploy_ui.png # ☁️ รูปประกอบการ Deploy Cloudflare Pages
-├── index.html               # 🏠 หน้าหลัก (Home) และ Hero Section
-├── about.html               # ℹ️ หน้าเกี่ยวกับฉัน (About Me)
-├── portfolio.html           # 💼 หน้ารวมผลงาน (Portfolio Grid)
-├── deploy-github.html       # 📘 คู่มือการ Deploy บน GitHub Pages
-├── deploy-cloudflare.html   # ☁️ คู่มือการ Deploy บน Cloudflare Pages
-├── styles.css               # 🎨 ไฟล์ CSS หลักสำหรับตกแต่งทั้งเว็บไซต์
-└── README.md                # 📖 คู่มือและรายละเอียดโปรเจกต์
+├── index.html               # 🏠 หน้าหลัก (Home)
+├── about.html               # ℹ️ เกี่ยวกับ (Bio & Skills)
+├── portfolio.html           # 💼 โปรเจกต์ IT (Demos & Tools)
+├── deploy-github.html       # 📘 ตัวอย่างการ Deploy (GitHub Pages)
+├── deploy-cloudflare.html   # ☁️ ตัวอย่างการ Deploy (Cloudflare Pages)
+├── styles.css               # 🎨 สไตล์หลัก
+└── README.md                # 📖 เอกสารโปรเจกต์
 ```
 
 ---
@@ -60,5 +59,5 @@ it464a-gitsample/
 ---
 
 <p align="center">
-    Made with ❤️ by Ekachai Kanya
+    Made with ❤️ by Kittituch Thampa
 </p>
